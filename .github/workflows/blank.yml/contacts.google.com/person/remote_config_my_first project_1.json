@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "Firebase": {
+      "defaultValue": {
+        "useInAppDefault": true
+      },
+      "description": "hardy-agility-381123",
+      "valueType": "JSON"
+    }
+  },
+  "version": {
+    "versionNumber": "1",
+    "updateTime": "2023-12-19T14:54:05.305215Z",
+    "updateUser": {
+      "email": "jakkapob8504@gmail.com"
+    },
+    "updateOrigin": "CONSOLE",
+    "updateType": "INCREMENTAL_UPDATE"
+  }
+}

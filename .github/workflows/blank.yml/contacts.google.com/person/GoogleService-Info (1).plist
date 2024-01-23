@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>296608337167-dd6uvbep0v7777gchoglh4bpd7vctobg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.296608337167-dd6uvbep0v7777gchoglh4bpd7vctobg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkDfiohIZx03gYh_q2hoQ5ZFBE81Qosdk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>296608337167</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>builder.setAdvancedOptionValuepersonalizedAdsfalse</string>
+	<key>PROJECT_ID</key>
+	<string>hardy-agility-381122</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hardy-agility-381122.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:296608337167:ios:ae68f02b4ca9a022e1827a</string>
+</dict>
+</plist>
